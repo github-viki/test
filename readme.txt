@@ -5,3 +5,7 @@ user.txt中的格式为
 一行一个
 
 add_user.bat，双击运行，或cd到脚本目录执行
+----------------------------------------
+xin jia
+---
+huitui xinjia
